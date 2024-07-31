@@ -1,0 +1,81 @@
+
+Children’s Online Privacy Policy
+
+Last Updated: July 31, 2024
+
+Contact Information:
+
+Ion Dobrioglo
+S.Ghidighci, str. B.P.Hasdeu
+Chisinau, Moldova
+
+Email: ion.dobrioglo99@gmail.com
+
+This Children’s Online Privacy Policy provides an overview of how we handle children’s personal data and forms part of our regular Privacy Policy, which explains in detail how we collect and use personal data from the users of our applications and services.
+
+Compliance with COPPA and GDPR
+
+The US Children’s Online Privacy Protection Act (COPPA) requires us to inform parents or legal guardians about how we collect, use, and disclose personal data from children under the age of 13. COPPA also requires that we obtain consent from parents or legal guardians before allowing children under the age of 13 to use and interact with certain sections, applications, and activities. We offer various activities, some of which are directed at children under 13 and others targeted at older users.
+
+The General Data Protection Regulation (GDPR) requires us to inform parents or legal guardians about how we collect, use, and disclose personal data from children under the age of 16 in some European Union member countries. The GDPR also requires that we obtain consent from parents or legal guardians before allowing children to use and interact with certain sections, applications, and activities.
+
+Verifiable Parental Consent
+
+If we need to collect personal data from a child under the age of 13 in the US, COPPA requires that we first obtain a parent or legal guardian’s consent. We will send an email or use another approved method to inform the parent or legal guardian about the information we wish to collect, how we propose to use it, and how the parent can provide or revoke consent. If we do not obtain consent within a reasonable timeframe, we will delete the child and parent information collected with the request.
+
+Teacher Consent in Place of a Parent
+
+For school-based activities, school administrators and teachers are allowed under COPPA to act on behalf of the parents to give consent when collecting personal information from children. Teachers and school administrators should always inform parents when collecting personal information from children on their behalf.
+
+Information We Collect from Children, How We Use It, and Parental Rights
+
+Registration
+
+Children can register to use our applications, software, online applications, view content, participate in contests, receive emails, and engage in other activities. During the registration process, we may collect personal information from children. We will retain this information only as long as necessary to allow the child to use and interact with our services. Once the information is no longer needed, we will securely delete it from our systems.
+
+During registration, we may ask a child to provide information for security purposes, announcements, and notifications, including:
+
+- Name
+- Age (to validate the child’s age)
+- Email address
+- Parent’s or legal guardian’s email address and other contact information (if relevant)
+
+Children can choose whether to provide their information; however, some features may not function without the required information.
+
+To comply with COPPA and GDPR requirements, we will ask for the parent, legal guardian, or teacher’s email address before collecting any personal data from a child under the applicable age threshold. If you believe your child is involved in an activity that collects personal information and you have not received a request for consent, please contact us using the contact information at the top of this page.
+
+Automatic Information Collection and Persistent Identifiers
+
+When children interact with our services, we may automatically collect specific information to make our applications and services useful to them. This information includes the child’s IP address and use patterns, collected using online technologies such as cookies, web beacons, and other unique identifiers, as explained in our regular Privacy Policy. This information may be collected by us or by third parties.
+
+How We Use Collected Information
+
+This information is primarily used to:
+
+- Allow members and children to access and use features
+- Improve the features and usability of our services
+- Analyze data to see how our services are performing
+- Send email notifications to users and children
+
+Sharing Information
+
+We will not share a child’s personal information with other individuals or companies except in limited situations, including:
+
+- When other companies perform services for us, like customer support, email services, delivery services, call centers, data management services, help desk providers, law firms, payment processors, accountants, and shopping cart providers. These companies are prohibited from using a child’s personal information for purposes other than those requested by us or required by law.
+- Disclosing a child’s personal information if required or permitted by law, for example, in response to a subpoena, law enforcement, court order, or public agency’s request.
+- To protect the safety of a child.
+- To safeguard the security of our platform and companies that provide services for us.
+
+The list of third parties that have access to the personal data we collect is available in our regular Privacy Policy.
+
+Parental Rights
+
+As a parent or legal guardian, you have the following rights regarding your child’s use of our services:
+
+- To review the personal information we collected from your child.
+- To revoke consent to use or further collect your child’s personal information.
+- To request that your child’s personal information be changed or deleted.
+- To allow the collection and use of your child’s information but not allow disclosure to third parties unless it is part of our service.
+- To receive a new notice and provide consent if we make changes to the collection, use, or disclosure practices to which you previously agreed.
+
+Parents can exercise their rights by contacting us using the contact information at the top of this page.
