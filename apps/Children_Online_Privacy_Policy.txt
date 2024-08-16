@@ -37,9 +37,6 @@ Since no data is collected, there is no usage or analysis of personal data relat
 Sharing Information
 We do not share any personal information with third parties under any circumstances.
 
-Advertising
-The advertisements displayed within our application are carefully curated to be suitable for children aged 4 and older. We ensure that all advertising content is appropriate and safe for young audiences.
-
 Parental Rights
 Since we do not collect any personal information from children, the parental rights regarding data review, consent revocation, data modification, and data deletion are inherently respected.
 
